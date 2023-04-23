@@ -1,4 +1,12 @@
-# - Cryptohack Solutions
+# @@- Cryptohack Solutions @@
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 This repository contains our team's solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
 <p align="center">
