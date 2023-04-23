@@ -25,7 +25,7 @@ We have completed the following challenges on Cryptohack:
 
 ### <span style="color:#2E8B57">Order problem</span>
 
-We have also included the following additional files:
+We have also attached the following additional files that we solved together:
 
 - `Ma_Hoa_Caesar.cpp` : Implementation of Caesar Cipher Encryption
 - `Giai_Ma_Caesar.cpp`: Implementation of Caesar Cipher Decryption
