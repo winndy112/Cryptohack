@@ -1,7 +1,8 @@
-  # Cryptohack Solutions	
-
-
-
+# Cryptohack Solutions	
+## <span style="color:#f5f5dc">Team Members and Introduce</span>
+- **Nguyễn Thị Quỳnh Anh** (MSSV: ) - [GitHub profile](https://github.com/quynhanh-nguyen)
+- **Trần Nhật Khoa** (MSSV: 22520691) - [GitHub profile]([https://github.com/hoangkhanhnguyen](https://github.com/trannhatkhoacm1612))
+- **Lê Trần Quốc Khánh** (MSSV: ) - [GitHub profile](https://github.com/khoanguyen-2811)
 This repository contains our team's solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
 <p align="center">
   <img width="40%" height="350px" src="https://cryptohack.org/static/img/main.png">
