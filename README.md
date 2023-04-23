@@ -20,7 +20,7 @@ We have completed the following challenges on Cryptohack:
 | Block Ciphers | <span style="color:#1589F0">Điền số</span> | Member1, Member2 |
 | Diffie-Hellman | <span style="color:#FFC0CB">Điền số</span> | Member1, Member3 |
 | General | <span style="color:#2E8B57">Điền số</span> | Member2, Member3 |
-| Introduce | <span style="color:#FFD700">Điền số</span> | Member1, Member2 |
+| Introduce | <span style="color:#FFD700">3/3</span> | Member1, Member2 |
 | Mathematics | <span style="color:#800000">Điền số</span> | Member3, Member4 |
 | RSA | <span style="color:#FFA500">Điền số</span> | Member2, Member3 |
 
