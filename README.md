@@ -17,11 +17,11 @@ We have completed the following challenges on Cryptohack:
 
 | Challenge Name | Number solved | Members responsible | 
 | --- | --- | --- |
-| Block Ciphers | <span style="color:#1589F0">Điền số</span> | Member1, Member2 |
-| Diffie-Hellman | <span style="color:#FFC0CB">Điền số</span> | Member1, Member3 |
-| General | <span style="color:#2E8B57">Điền số</span> | Member2, Member3 |
+| Symmetrics Ciphers | <span style="color:#1589F0">Điền số</span> | Member1, Member2 |
+| Diffie-Hellman | <span style="color:#FFC0CB">13/29</span> | Member1, Member3 |
+| General | <span style="color:#2E8B57">18/19</span> | Member2, Member3 |
 | Introduce | <span style="color:#FFD700">3/3</span> | Member1, Member2 |
-| Mathematics | <span style="color:#800000">Điền số</span> | Member3, Member4 |
+| Mathematics | <span style="color:#800000">11/22</span> | Member3, Member4 |
 | RSA | <span style="color:#FFA500">Điền số</span> | Member2, Member3 |
 
 ### <span style="color:#2E8B57">Order problem</span>
