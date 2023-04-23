@@ -1,4 +1,5 @@
-# Cryptohack Solutions
+# <code style="color : #f5f5dc"> Cryptohack Solutions </code>
+
 
 This repository contains our team's solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
 <p align="center">
