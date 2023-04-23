@@ -1,4 +1,4 @@
-  #  $${\color{red}{Cryptohack Solutions}}$$	
+  # Cryptohack Solutions	
 
 
 
