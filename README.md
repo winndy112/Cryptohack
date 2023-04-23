@@ -1,4 +1,4 @@
-# <div style="color:blue">Cryptohack Solutions</div>
+# - Cryptohack Solutions
 
 This repository contains our team's solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
 <p align="center">
