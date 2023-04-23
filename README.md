@@ -1,4 +1,4 @@
-# ```diff -Cryptohack Solutions ```
+# ```diff - Cryptohack Solutions ```
 
 ```diff
 - text in red
