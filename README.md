@@ -1,8 +1,7 @@
 # <span style="color:#FFC0CB">Cryptohack Solutions</span>
 
 This repository contains our team's solutions for the challenges on [Cryptohack](https://cryptohack.org/), along with our acknowledgements and submission details.
-<div style="text-align:center"><img src="https://cryptohack.org/static/img/main.png" style="width:30%; height: 400px"></div>
-## <span style="color:#f5f5dc">Acknowledgements</span>
+<div style="text-align:center"><img src="https://cryptohack.org/static/img/main.png" style="width:40%; height: 500px"></div>## <span style="color:#f5f5dc">Acknowledgements</span>
 
 Firstly, our team would like to express our gratitude for your prompt introduction to the field of Crypto. Although some of us may not pursue this field, your guidance and lessons were truly helpful regarding algorithms, Python, mathematics, and improving our teamwork skills.
 
