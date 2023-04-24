@@ -16,12 +16,12 @@ We have completed the following challenges on Cryptohack:
 
 | Challenge Name | Number solved | Members responsible | 
 | --- | --- | --- |
-| Block Ciphers | <span style="color:#1589F0">8/12</span> | Quỳnh Anh, Khánh |
-| Diffie-Hellman | <span style="color:#FFC0CB">5/14</span> | Quỳnh Anh |
-| General | <span style="color:#2E8B57">18/19</span> | Quỳnh Anh, Khoa |
-| Introduce | <span style="color:#FFD700">3/3</span> | Quỳnh Anh, Khánh |
-| Mathematics | <span style="color:#800000">11/22</span> | Khoa, Khánh |
-| RSA | <span style="color:#FFA500">13/29</span> | Quỳnh Anh , Khoa |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/BLOCK_CIPHER">>Block Ciphers</a | <span style="color:#1589F0">8/12</span> | Quỳnh Anh, Khánh |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/DIFFIE_HELLMAN">Diffie-Hellman</a> | <span style="color:#FFC0CB">5/14</span> | Quỳnh Anh |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/GENERAL">General</a> | <span style="color:#2E8B57">18/19</span> | Quỳnh Anh, Khoa |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/INTRODUCE">Introduce</a> | <span style="color:#FFD700">3/3</span> | Quỳnh Anh, Khánh |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/MATHEMATICS">Mathematics</a> | <span style="color:#800000">11/22</span> | Khoa, Khánh |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/RSA">RSA</a> | <span style="color:#FFA500">13/29</span> | Quỳnh Anh , Khoa |
 
 ### <span style="color:#2E8B57">Order problem</span>
 
