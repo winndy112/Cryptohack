@@ -16,7 +16,7 @@ We have completed the following challenges on Cryptohack:
 
 | Challenge Name | Number solved | Members responsible | 
 | --- | --- | --- |
-| <a href="https://github.com/ik-nown/Cryptohack/tree/master/BLOCK_CIPHER">>Block Ciphers</a | <span style="color:#1589F0">8/12</span> | Quỳnh Anh, Khánh |
+| <a href="https://github.com/ik-nown/Cryptohack/tree/master/BLOCK_CIPHER">Block Ciphers</a >| <span style="color:#1589F0">8/12</span> | Quỳnh Anh, Khánh |
 | <a href="https://github.com/ik-nown/Cryptohack/tree/master/DIFFIE_HELLMAN">Diffie-Hellman</a> | <span style="color:#FFC0CB">5/14</span> | Quỳnh Anh |
 | <a href="https://github.com/ik-nown/Cryptohack/tree/master/GENERAL">General</a> | <span style="color:#2E8B57">18/19</span> | Quỳnh Anh, Khoa |
 | <a href="https://github.com/ik-nown/Cryptohack/tree/master/INTRODUCE">Introduce</a> | <span style="color:#FFD700">3/3</span> | Quỳnh Anh, Khánh |
