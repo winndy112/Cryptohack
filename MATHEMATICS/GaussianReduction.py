@@ -23,6 +23,6 @@ basis = gauss_reduction(v,u)
 
 flag = dot_product(basis[0],basis[1])
 
-print(basis[0])
+print(flag)
 
 
